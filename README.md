@@ -7,3 +7,9 @@ cours sécurité informatique - cryptographie
 - Les valeurs pour les textes ainsi que la seuil d'acceptation va être décidé lors de la correction
 
 # Le code autograder est juste un guideline de comment le code sera corrigé.
+
+
+
+Émanuel Rollin - 20106951
+Q1 - Rapport pdf + q1.py 
+Q2 - student_code.py
