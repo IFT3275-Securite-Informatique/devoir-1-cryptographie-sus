@@ -497,7 +497,7 @@ def decrypt(C):
   print(plaintext)
   return plaintext
 
-
+"""
 
 url = "https://www.gutenberg.org/ebooks/13846.txt.utf-8"  # Example URL (replace with your desired URL)
 corpus = load_text_from_web(url)
@@ -525,7 +525,7 @@ M = corpus[10000:15000]
 C = chiffrer(M, K)
 decrypt(C)
 
-
+"""
 
 
 #found on https://gist.github.com/cofinley/262765821e4defbc8ff2bdb3356a853b
